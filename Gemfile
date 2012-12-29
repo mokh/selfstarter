@@ -1,3 +1,5 @@
+# List of the Gems used in the project
+
 source 'https://rubygems.org'
 
 
